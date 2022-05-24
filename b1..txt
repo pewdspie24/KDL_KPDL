@@ -1,0 +1,18 @@
+data mining: không hiển nhiên đúng, k tường minh, chưa từng biết và có thể sử dụng được trong 1 bể dữ liệu lớn
+Liên quan: KDD - Knowledge Discovery (mining) in Database - cha của data mining, là cả quá trình kiết xuất tri thức, Knowledge extraction, data analysis, BI, ...
+Cách quyết định trong data mining: kiểu db, kiểu tri thức, kiểu công nghệ áp dụng, cách áp dụng thực tế
+Có 2 loại data mining: miêu tả(D - descriptive) - tìm các pattern có thể thấy được để phân loại và dự đoán (P - predictive) - dùng các biến để predict giá trị biến khác
+3 bài toán: classification, clustering, association rule discovery
+Classification: ứng dụng: Direct marketing (tìm được đối tượng phù hợp trong marketing), Fraud Detection (phát hiện lừa đảo)
+Clustering: ứng dụng: Market Segmentation, document clustering
+
+1)	Khai phá dữ liệu là gì? Các vấn đề cần quan tâm khi khai phá dữ liệu, Các nhiệm vụ (bài toán) của khai phá dữ liệu
+2)	Định nghĩa bài toán phân loại trong khai phá dữ liệu ? ứng dụng của nó trong thực tế. Cho ví dụ
+3)	Định nghĩa bài toán phân cụm? ứng dụng của nó trong thực tế. Cho ví dụ
+Khái niệm độ đo sự tương đồng trong phân cụm, nêu một số loại
+4)	 Định nghĩa bài toán luật kết hợp trong khai phá dữ liệu? Ứng dụng của nó trong thực tế. Cho ví dụ minh họa.
+5)	Vai trò của kho dữ liệu (data warehouse) và khai  phá dữ liệu (data mining) trong quá trình khai phá tri thức (KDD)
+6)	So sánh khai phá dữ liệu với Kho dữ liệu 
+7)	So sánh khai phá dữ liệu với hệ quản trị cơ sở dữ liệu (DBMS)
+8)	Một số vấn đề chưa giải quyết được trong lĩnh vực kho dữ liệu và khai phá dữ liệu
+9)	Liệt kê những từ khóa liên quan trong bài học (cả tiếng Anh và nghĩa tiếng Việt)
